@@ -1,0 +1,4 @@
+function [x,y] = isCollinear(x,y)
+f
+
+end
